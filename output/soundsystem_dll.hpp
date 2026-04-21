@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:30:11.088661900 UTC
+// 2026-04-21 06:53:49.281872300 UTC
 
 #pragma once
 
@@ -401,7 +401,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVMixControlInput {
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             namespace CVMixBoxverbProcessorDesc {
             }
@@ -606,7 +606,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVMixModDelayProcessorDesc {
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             namespace CVMixShaperProcessorDesc {
             }
@@ -620,7 +620,7 @@ namespace cs2_dumper {
             namespace CAudioEmphasisSample {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             namespace CVMixOscProcessorDesc {
             }
@@ -691,7 +691,7 @@ namespace cs2_dumper {
             namespace CSoundContainerReferenceArray {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             namespace CVMixFilterProcessorDesc {
             }
@@ -704,7 +704,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVoiceContainerTapePlayer {
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             namespace CVMixSubgraphSwitchProcessorDesc {
             }
@@ -785,7 +785,7 @@ namespace cs2_dumper {
             namespace VMixEffectChainDesc_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             namespace CVMixPlateReverbProcessorDesc {
             }

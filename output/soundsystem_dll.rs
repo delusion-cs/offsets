@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:30:11.088661900 UTC
+// 2026-04-21 06:53:49.281872300 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -419,7 +419,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CVMixControlInput {
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub mod CVMixBoxverbProcessorDesc {
             }
@@ -624,7 +624,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CVMixModDelayProcessorDesc {
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub mod CVMixShaperProcessorDesc {
             }
@@ -638,7 +638,7 @@ pub mod cs2_dumper {
             pub mod CAudioEmphasisSample {
                 pub const : usize = 0x0; // 
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub mod CVMixOscProcessorDesc {
             }
@@ -709,7 +709,7 @@ pub mod cs2_dumper {
             pub mod CSoundContainerReferenceArray {
                 pub const : usize = 0x0; // 
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub mod CVMixFilterProcessorDesc {
             }
@@ -722,7 +722,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CVoiceContainerTapePlayer {
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub mod CVMixSubgraphSwitchProcessorDesc {
             }
@@ -803,7 +803,7 @@ pub mod cs2_dumper {
             pub mod VMixEffectChainDesc_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub mod CVMixPlateReverbProcessorDesc {
             }

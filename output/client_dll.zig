@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:30:11.088661900 UTC
+// 2026-04-21 06:53:49.281872300 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -336,7 +336,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_WeaponAWP = struct {
             };
-            // Parent: __f___
+            // Parent: __X___
             // Field count: 0
             pub const C_BaseButton = struct {
             };
@@ -624,7 +624,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_CSWeaponBase = struct {
             };
-            // Parent: __g___
+            // Parent: __Y___
             // Field count: 0
             pub const CTimeline = struct {
             };

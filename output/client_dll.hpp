@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:30:11.088661900 UTC
+// 2026-04-21 06:53:49.281872300 UTC
 
 #pragma once
 
@@ -341,7 +341,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_WeaponAWP {
             }
-            // Parent: __f___
+            // Parent: __X___
             // Field count: 0
             namespace C_BaseButton {
             }
@@ -629,7 +629,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_CSWeaponBase {
             }
-            // Parent: __g___
+            // Parent: __Y___
             // Field count: 0
             namespace CTimeline {
             }

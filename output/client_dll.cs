@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:30:11.088661900 UTC
+// 2026-04-21 06:53:49.281872300 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: client.dll
@@ -335,7 +335,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_WeaponAWP {
         }
-        // Parent: __f___
+        // Parent: __X___
         // Field count: 0
         public static class C_BaseButton {
         }
@@ -623,7 +623,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_CSWeaponBase {
         }
-        // Parent: __g___
+        // Parent: __Y___
         // Field count: 0
         public static class CTimeline {
         }

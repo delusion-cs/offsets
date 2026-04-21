@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:30:11.088661900 UTC
+// 2026-04-21 06:53:49.281872300 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -391,7 +391,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CVMixControlInput = struct {
             };
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub const CVMixBoxverbProcessorDesc = struct {
             };
@@ -596,7 +596,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CVMixModDelayProcessorDesc = struct {
             };
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub const CVMixShaperProcessorDesc = struct {
             };
@@ -610,7 +610,7 @@ pub const cs2_dumper = struct {
             pub const CAudioEmphasisSample = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub const CVMixOscProcessorDesc = struct {
             };
@@ -681,7 +681,7 @@ pub const cs2_dumper = struct {
             pub const CSoundContainerReferenceArray = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub const CVMixFilterProcessorDesc = struct {
             };
@@ -694,7 +694,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CVoiceContainerTapePlayer = struct {
             };
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub const CVMixSubgraphSwitchProcessorDesc = struct {
             };
@@ -775,7 +775,7 @@ pub const cs2_dumper = struct {
             pub const VMixEffectChainDesc_t = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: _BH___
+            // Parent: _B____
             // Field count: 0
             pub const CVMixPlateReverbProcessorDesc = struct {
             };

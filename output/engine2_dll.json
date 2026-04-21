@@ -81,7 +81,7 @@
       "EventAdvanceTick_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL,\t�"
+        "parent": "xL���"
       },
       "EventAppShutdown_t": {
         "fields": {},
@@ -111,7 +111,7 @@
       "EventClientPauseSimulate_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL,\t�"
+        "parent": "xL���"
       },
       "EventClientPollInput_t": {
         "fields": {},
@@ -141,7 +141,7 @@
       "EventClientPreOutputParallelWithServer_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL,\t�"
+        "parent": "xL���"
       },
       "EventClientPreOutput_t": {
         "fields": {},
@@ -211,7 +211,7 @@
       "EventServerAdvanceTick_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL,\t�"
+        "parent": "xL���"
       },
       "EventServerBeginAsyncPostTickWork_t": {
         "fields": {},
@@ -221,7 +221,7 @@
       "EventServerBeginSimulate_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL,\t�"
+        "parent": "xL���"
       },
       "EventServerEndAsyncPostTickWork_t": {
         "fields": {},
@@ -241,12 +241,12 @@
       "EventServerPostAdvanceTick_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL,\t�"
+        "parent": "xL���"
       },
       "EventServerPostSimulate_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL,\t�"
+        "parent": "xL���"
       },
       "EventServerProcessNetworking_t": {
         "fields": {},

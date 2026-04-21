@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:30:11.088661900 UTC
+// 2026-04-21 06:53:49.281872300 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: soundsystem.dll
@@ -395,7 +395,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CVMixControlInput {
         }
-        // Parent: _BH___
+        // Parent: _B____
         // Field count: 0
         public static class CVMixBoxverbProcessorDesc {
         }
@@ -600,7 +600,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CVMixModDelayProcessorDesc {
         }
-        // Parent: _BH___
+        // Parent: _B____
         // Field count: 0
         public static class CVMixShaperProcessorDesc {
         }
@@ -614,7 +614,7 @@ namespace CS2Dumper.Schemas {
         public static class CAudioEmphasisSample {
             public const nint  = 0x0; // 
         }
-        // Parent: _BH___
+        // Parent: _B____
         // Field count: 0
         public static class CVMixOscProcessorDesc {
         }
@@ -685,7 +685,7 @@ namespace CS2Dumper.Schemas {
         public static class CSoundContainerReferenceArray {
             public const nint  = 0x0; // 
         }
-        // Parent: _BH___
+        // Parent: _B____
         // Field count: 0
         public static class CVMixFilterProcessorDesc {
         }
@@ -698,7 +698,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CVoiceContainerTapePlayer {
         }
-        // Parent: _BH___
+        // Parent: _B____
         // Field count: 0
         public static class CVMixSubgraphSwitchProcessorDesc {
         }
@@ -779,7 +779,7 @@ namespace CS2Dumper.Schemas {
         public static class VMixEffectChainDesc_t {
             public const nint  = 0x0; // 
         }
-        // Parent: _BH___
+        // Parent: _B____
         // Field count: 0
         public static class CVMixPlateReverbProcessorDesc {
         }

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:30:11.088661900 UTC
+// 2026-04-21 06:53:49.281872300 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -350,7 +350,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_WeaponAWP {
             }
-            // Parent: __f___
+            // Parent: __X___
             // Field count: 0
             pub mod C_BaseButton {
             }
@@ -638,7 +638,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_CSWeaponBase {
             }
-            // Parent: __g___
+            // Parent: __Y___
             // Field count: 0
             pub mod CTimeline {
             }
