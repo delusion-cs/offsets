@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 14:12:45.170741 UTC
+// 2026-04-21 17:57:29.032423800 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -93,7 +93,7 @@ pub mod cs2_dumper {
             pub mod RnSoftbodyCapsule_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             pub mod vphysics_save_cphysicsbody_t {
             }
@@ -106,7 +106,7 @@ pub mod cs2_dumper {
             pub mod CFeIndexedJiggleBone {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             pub mod IPhysAggregateInstance {
             }

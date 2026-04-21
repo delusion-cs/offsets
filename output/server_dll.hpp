@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 14:12:45.170741 UTC
+// 2026-04-21 17:57:29.032423800 UTC
 
 #pragma once
 
@@ -2040,7 +2040,7 @@ namespace cs2_dumper {
                 MOVETYPE_INVALID = 0xB,
                 MOVETYPE_MAX_BITS = 0x5
             };
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CWeaponNOVA {
             }
@@ -2197,7 +2197,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPhysHingeAlias_phys_hinge_local {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CLogicCase {
             }
@@ -2401,7 +2401,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CSmokeGrenade {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CBaseCombatCharacter {
             }
@@ -2486,7 +2486,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CRenderComponent {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CWaterBullet {
             }
@@ -2691,7 +2691,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPulseCell_Value_Gradient {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CParticleSystem {
             }
@@ -2916,7 +2916,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CSoundEventPathCornerEntity {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CCSPlayerBase_CameraServices {
             }
@@ -3157,7 +3157,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CChoreoInfoTarget {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CTonemapController2 {
             }
@@ -3197,7 +3197,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CCSPlayer_BulletServices {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CSkyCamera {
             }
@@ -3314,7 +3314,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CRuleEntity {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CPhysThruster {
             }
@@ -3400,7 +3400,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CWeaponMAC10 {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CFuncLadder {
             }
@@ -3416,7 +3416,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CItem {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CTriggerPush {
             }
@@ -3525,7 +3525,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPhysLength {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CTeam {
             }
@@ -3756,7 +3756,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CChangeLevel {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CBaseButton {
             }
@@ -3845,7 +3845,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPulseCell_Inflow_ObservableVariableListener {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CFuncMonitor {
             }
@@ -3857,7 +3857,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CGunTarget {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CSoundEventConeEntity {
             }
@@ -3869,7 +3869,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CFilterMultipleAPI {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CDecoyProjectile {
             }
@@ -4015,7 +4015,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CCSGO_TeamIntroCounterTerroristPosition {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CRagdollProp {
             }
@@ -4115,7 +4115,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CEntityDissolve {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CCSGameRules {
             }
@@ -4211,7 +4211,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CBaseDMStart {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CBaseModelEntity {
             }
@@ -4299,7 +4299,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPhysImpact {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CBaseEntity {
             }
@@ -4311,7 +4311,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CGameSceneNodeHandle {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CMarkupVolumeWithRef {
             }
@@ -4335,7 +4335,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CInfoInstructorHintTarget {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CSpriteAlias_env_glow {
             }
@@ -4391,7 +4391,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CEnvBeverage {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CPhysMotor {
             }
@@ -4444,7 +4444,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CRuleBrushEntity {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CMapVetoPickController {
             }
@@ -4549,7 +4549,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CEnvWindVolume {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CFuncElectrifiedVolume {
             }
@@ -4634,11 +4634,11 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CInfoInstructorHintBombTargetA {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CTeamplayRules {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CScriptTriggerHurt {
             }
@@ -4699,7 +4699,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CBaseDoor {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CServerOnlyPointEntity {
             }
@@ -4851,7 +4851,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CBreakable {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CInfoLandmark {
             }
@@ -4901,7 +4901,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPulseCell_LimitCount__Criteria_t {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CFuncRotator {
             }
@@ -4913,7 +4913,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CInfoPlayerCounterterrorist {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CEnvFade {
             }
@@ -4950,7 +4950,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CBasePropDoor {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CLogicBranchList {
             }
@@ -5038,7 +5038,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CTriggerLerpObject {
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace CPhysicsPropOverride {
             }
@@ -5326,7 +5326,7 @@ namespace cs2_dumper {
             namespace PointCameraSettings_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             namespace DebugDrawBoneTransforms_t {
             }

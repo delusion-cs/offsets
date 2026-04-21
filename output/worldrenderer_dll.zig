@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 14:12:45.170741 UTC
+// 2026-04-21 17:57:29.032423800 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -77,7 +77,7 @@ pub const cs2_dumper = struct {
             pub const AggregateLODSetup_t = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             pub const ExtraVertexStreamOverride_t = struct {
             };
@@ -174,7 +174,7 @@ pub const cs2_dumper = struct {
             pub const BakedLightingInfo_t__BakedShadowAssignment_t = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             pub const MaterialOverride_t = struct {
             };

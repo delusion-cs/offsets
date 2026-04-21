@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 14:12:45.170741 UTC
+// 2026-04-21 17:57:29.032423800 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: worldrenderer.dll
@@ -76,7 +76,7 @@ namespace CS2Dumper.Schemas {
         public static class AggregateLODSetup_t {
             public const nint  = 0x0; // 
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class ExtraVertexStreamOverride_t {
         }
@@ -173,7 +173,7 @@ namespace CS2Dumper.Schemas {
         public static class BakedLightingInfo_t__BakedShadowAssignment_t {
             public const nint  = 0x0; // 
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class MaterialOverride_t {
         }

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 14:12:45.170741 UTC
+// 2026-04-21 17:57:29.032423800 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: particles.dll
@@ -1180,7 +1180,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_EndCapTimedDecay {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_RemapDistanceToLineSegmentBase {
         }
@@ -1294,7 +1294,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_LightningSnapshotGenerator {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_RemapNamedModelMeshGroupOnceTimed {
         }
@@ -1514,7 +1514,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_SetCPtoVector {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_INIT_RandomYaw {
         }
@@ -1707,7 +1707,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_ConstrainDistanceToPath {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_DistanceCull {
         }
@@ -1719,7 +1719,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_GameDecalRenderer {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_SetControlPointsToModelParticles {
         }
@@ -1752,7 +1752,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_RenderPoints {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_INIT_SetAttributeToScalarExpression {
         }
@@ -1776,7 +1776,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_INIT_CreateOnModelAtHeight {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_ModelSurfaceSnapshotGenerator {
         }
@@ -1817,7 +1817,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_INIT_RemapTransformOrientationToRotations {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_Cull {
         }
@@ -1834,7 +1834,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_ReadFromNeighboringParticle {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_RenderText {
         }
@@ -1882,7 +1882,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_INIT_RandomRotationSpeed {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_InheritFromParentParticlesV2 {
         }
@@ -1988,7 +1988,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_INIT_InitSkinnedPositionFromCPSnapshot {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_LagCompensation {
         }
@@ -2093,7 +2093,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_INIT_PositionOffset {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_INIT_NormalAlignToCP {
         }
@@ -2137,7 +2137,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_INIT_CreateParticleImpulse {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_DensityForce {
         }
@@ -2149,7 +2149,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_ConstrainDistanceToUserSpecifiedPath {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_SetControlPointPositions {
         }
@@ -2161,7 +2161,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_MovementRotateParticleAroundAxis {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_IntraParticleForce {
         }
@@ -2366,7 +2366,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_TimeVaryingForce {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_SetCPOrientationToGroundNormal {
         }
@@ -2508,7 +2508,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_OP_EndCapDecay {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_OP_ForceBasedOnDistanceToPlane {
         }
@@ -2620,7 +2620,7 @@ namespace CS2Dumper.Schemas {
         public static class RenderProjectedMaterial_t {
             public const nint  = 0x0; // 
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_INIT_SetFloatAttributeToVectorExpression {
         }
@@ -2685,7 +2685,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_INIT_RemapParticleCountToNamedModelMeshGroupScalar {
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class C_INIT_SequenceFromCP {
         }

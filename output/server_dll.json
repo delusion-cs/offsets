@@ -177,7 +177,7 @@
       "CBaseButton": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CBaseCSGrenade": {
         "fields": {},
@@ -197,7 +197,7 @@
       "CBaseCombatCharacter": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CBaseDMStart": {
         "fields": {},
@@ -212,7 +212,7 @@
       "CBaseEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CBaseEntityAPI": {
         "fields": {},
@@ -237,7 +237,7 @@
       "CBaseModelEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CBaseModelEntityAPI": {
         "fields": {},
@@ -551,7 +551,7 @@
       "CCSGameRules": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CCSGameRulesProxy": {
         "fields": {},
@@ -606,7 +606,7 @@
       "CCSPlayerBase_CameraServices": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CCSPlayerController": {
         "fields": {},
@@ -901,7 +901,7 @@
       "CDecoyProjectile": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CDestructiblePart": {
         "fields": {
@@ -1096,7 +1096,7 @@
       "CEnvFade": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CEnvGlobal": {
         "fields": {},
@@ -1378,7 +1378,7 @@
       "CFuncElectrifiedVolume": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CFuncIllusionary": {
         "fields": {},
@@ -1393,7 +1393,7 @@
       "CFuncLadder": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CFuncLadderAlias_func_useableladder": {
         "fields": {},
@@ -1403,7 +1403,7 @@
       "CFuncMonitor": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CFuncMoveLinear": {
         "fields": {},
@@ -1463,7 +1463,7 @@
       "CFuncRotator": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CFuncShatterglass": {
         "fields": {},
@@ -1568,7 +1568,7 @@
       "CGameRulesProxy": {
         "fields": {},
         "metadata": [],
-        "parent": "�\u0016*��"
+        "parent": "�\u0016���"
       },
       "CGameSceneNode": {
         "fields": {},
@@ -1770,7 +1770,7 @@
       "CInfoLandmark": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CInfoOffscreenPanoramaTexture": {
         "fields": {},
@@ -1960,17 +1960,17 @@
       "CLogicBranch": {
         "fields": {},
         "metadata": [],
-        "parent": "�i-��"
+        "parent": "�i���"
       },
       "CLogicBranchList": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CLogicCase": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CLogicCollisionPair": {
         "fields": {},
@@ -2080,7 +2080,7 @@
       "CMapVetoPickController": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CMarkupVolume": {
         "fields": {},
@@ -2105,7 +2105,7 @@
       "CMarkupVolumeWithRef": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CMathColorBlend": {
         "fields": {},
@@ -2349,7 +2349,7 @@
       "CParticleSystem": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CPathCorner": {
         "fields": {},
@@ -2479,7 +2479,7 @@
       "CPhysMotor": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CPhysMotorAPI": {
         "fields": {},
@@ -2499,7 +2499,7 @@
       "CPhysThruster": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CPhysTorque": {
         "fields": {},
@@ -2548,7 +2548,7 @@
       "CPhysicsPropOverride": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CPhysicsPropRespawnable": {
         "fields": {},
@@ -3337,7 +3337,7 @@
       "CRagdollProp": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CRagdollPropAlias_physics_prop_ragdoll": {
         "fields": {},
@@ -3541,7 +3541,7 @@
       "CScriptTriggerHurt": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CScriptTriggerMultiple": {
         "fields": {},
@@ -3581,7 +3581,7 @@
       "CServerOnlyPointEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CServerRagdollTrigger": {
         "fields": {},
@@ -3623,7 +3623,7 @@
       "CSimpleStopwatch": {
         "fields": {},
         "metadata": [],
-        "parent": "@f*��"
+        "parent": "@f���"
       },
       "CSingleplayRules": {
         "fields": {},
@@ -3660,7 +3660,7 @@
       "CSkyCamera": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CSkyboxReference": {
         "fields": {},
@@ -3712,7 +3712,7 @@
       "CSoundEventConeEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CSoundEventEntity": {
         "fields": {},
@@ -3814,7 +3814,7 @@
       "CSpriteAlias_env_glow": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CSpriteOriented": {
         "fields": {},
@@ -3868,12 +3868,12 @@
       "CTeam": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CTeamplayRules": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CTestEffect": {
         "fields": {},
@@ -3958,7 +3958,7 @@
       "CTonemapController2": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CTonemapController2Alias_env_tonemap_controller2": {
         "fields": {},
@@ -4053,7 +4053,7 @@
       "CTriggerMultiple": {
         "fields": {},
         "metadata": [],
-        "parent": "p\u0011.��"
+        "parent": "p\u0011���"
       },
       "CTriggerOnce": {
         "fields": {},
@@ -4073,7 +4073,7 @@
       "CTriggerPush": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CTriggerRemove": {
         "fields": {},
@@ -4128,7 +4128,7 @@
       "CWaterBullet": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CWeaponAWP": {
         "fields": {},
@@ -4233,7 +4233,7 @@
       "CWeaponNOVA": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "CWeaponNegev": {
         "fields": {},
@@ -4330,7 +4330,7 @@
       "DebugDrawBoneTransforms_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xLE��"
+        "parent": "xL˓�"
       },
       "DebugSnapshotBaseStructuredData_t": {
         "fields": {

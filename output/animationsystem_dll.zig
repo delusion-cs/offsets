@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 14:12:45.170741 UTC
+// 2026-04-21 17:57:29.032423800 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -2124,7 +2124,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CNmVectorInfoNode__CDefinition = struct {
             };
-            // Parent: xLE___
+            // Parent: xL___
             // Field count: 0
             pub const AnimationSnapshot_t = struct {
             };

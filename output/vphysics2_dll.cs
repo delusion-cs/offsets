@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 14:12:45.170741 UTC
+// 2026-04-21 17:57:29.032423800 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: vphysics2.dll
@@ -85,7 +85,7 @@ namespace CS2Dumper.Schemas {
         public static class RnSoftbodyCapsule_t {
             public const nint  = 0x0; // 
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class vphysics_save_cphysicsbody_t {
         }
@@ -98,7 +98,7 @@ namespace CS2Dumper.Schemas {
         public static class CFeIndexedJiggleBone {
             public const nint  = 0x0; // 
         }
-        // Parent: xLE___
+        // Parent: xL___
         // Field count: 0
         public static class IPhysAggregateInstance {
         }
