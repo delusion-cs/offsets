@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:53:49.281872300 UTC
+// 2026-04-21 14:00:35.963345100 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -1181,7 +1181,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_EndCapTimedDecay = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_RemapDistanceToLineSegmentBase = struct {
             };
@@ -1295,7 +1295,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_LightningSnapshotGenerator = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_RemapNamedModelMeshGroupOnceTimed = struct {
             };
@@ -1515,7 +1515,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_SetCPtoVector = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_INIT_RandomYaw = struct {
             };
@@ -1708,7 +1708,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_ConstrainDistanceToPath = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_DistanceCull = struct {
             };
@@ -1720,7 +1720,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_GameDecalRenderer = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_SetControlPointsToModelParticles = struct {
             };
@@ -1753,7 +1753,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_RenderPoints = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_INIT_SetAttributeToScalarExpression = struct {
             };
@@ -1777,7 +1777,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_INIT_CreateOnModelAtHeight = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_ModelSurfaceSnapshotGenerator = struct {
             };
@@ -1818,7 +1818,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_INIT_RemapTransformOrientationToRotations = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_Cull = struct {
             };
@@ -1835,7 +1835,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_ReadFromNeighboringParticle = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_RenderText = struct {
             };
@@ -1883,7 +1883,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_INIT_RandomRotationSpeed = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_InheritFromParentParticlesV2 = struct {
             };
@@ -1989,7 +1989,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_INIT_InitSkinnedPositionFromCPSnapshot = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_LagCompensation = struct {
             };
@@ -2094,7 +2094,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_INIT_PositionOffset = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_INIT_NormalAlignToCP = struct {
             };
@@ -2138,7 +2138,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_INIT_CreateParticleImpulse = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_DensityForce = struct {
             };
@@ -2150,7 +2150,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_ConstrainDistanceToUserSpecifiedPath = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_SetControlPointPositions = struct {
             };
@@ -2162,7 +2162,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_MovementRotateParticleAroundAxis = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_IntraParticleForce = struct {
             };
@@ -2367,7 +2367,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_TimeVaryingForce = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_SetCPOrientationToGroundNormal = struct {
             };
@@ -2509,7 +2509,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_OP_EndCapDecay = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_OP_ForceBasedOnDistanceToPlane = struct {
             };
@@ -2621,7 +2621,7 @@ pub const cs2_dumper = struct {
             pub const RenderProjectedMaterial_t = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_INIT_SetFloatAttributeToVectorExpression = struct {
             };
@@ -2686,7 +2686,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const C_INIT_RemapParticleCountToNamedModelMeshGroupScalar = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const C_INIT_SequenceFromCP = struct {
             };

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:53:49.281872300 UTC
+// 2026-04-21 14:00:35.963345100 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -343,11 +343,11 @@ pub const cs2_dumper = struct {
             pub const CDSPPresetMixgroupModifierTable = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const CSosGroupActionSoundeventClusterSchema = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const CSosGroupActionSetSoundeventParameterSchema = struct {
             };
@@ -370,7 +370,7 @@ pub const cs2_dumper = struct {
             pub const CVoiceContainerAnalysisBase = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const CSosGroupActionSoundeventMinMaxValuesSchema = struct {
             };
@@ -404,7 +404,7 @@ pub const cs2_dumper = struct {
             pub const VMixPannerDesc_t = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const CSosGroupActionSoundeventPrioritySchema = struct {
             };
@@ -422,7 +422,7 @@ pub const cs2_dumper = struct {
             pub const VMixModDelayDesc_t = struct {
                 pub const @"": usize = 0x0; // 
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const CSndSeqInstSndEvtSchema = struct {
             };
@@ -430,7 +430,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CVMixNameInputMeter = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const CSndSeqInstruments = struct {
             };
@@ -846,7 +846,7 @@ pub const cs2_dumper = struct {
             // Field count: 0
             pub const CVoiceContainerDecayingSineWave = struct {
             };
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub const CVMixDelayProcessorDesc = struct {
             };

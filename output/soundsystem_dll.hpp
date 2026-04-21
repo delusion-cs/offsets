@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:53:49.281872300 UTC
+// 2026-04-21 14:00:35.963345100 UTC
 
 #pragma once
 
@@ -353,11 +353,11 @@ namespace cs2_dumper {
             namespace CDSPPresetMixgroupModifierTable {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             namespace CSosGroupActionSoundeventClusterSchema {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             namespace CSosGroupActionSetSoundeventParameterSchema {
             }
@@ -380,7 +380,7 @@ namespace cs2_dumper {
             namespace CVoiceContainerAnalysisBase {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             namespace CSosGroupActionSoundeventMinMaxValuesSchema {
             }
@@ -414,7 +414,7 @@ namespace cs2_dumper {
             namespace VMixPannerDesc_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             namespace CSosGroupActionSoundeventPrioritySchema {
             }
@@ -432,7 +432,7 @@ namespace cs2_dumper {
             namespace VMixModDelayDesc_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             namespace CSndSeqInstSndEvtSchema {
             }
@@ -440,7 +440,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVMixNameInputMeter {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             namespace CSndSeqInstruments {
             }
@@ -856,7 +856,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVoiceContainerDecayingSineWave {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             namespace CVMixDelayProcessorDesc {
             }

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:53:49.281872300 UTC
+// 2026-04-21 14:00:35.963345100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: engine2.dll
@@ -61,7 +61,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class EventClientOutput_t {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class EventServerPostSimulate_t {
         }
@@ -73,7 +73,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class GameTime_t {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class EventServerBeginSimulate_t {
         }
@@ -130,7 +130,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class EventAppShutdown_t {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class EventServerPostAdvanceTick_t {
         }
@@ -146,7 +146,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class EventClientPreSimulate_t {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class EventClientPauseSimulate_t {
         }
@@ -158,11 +158,11 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CEntityAttributeTable {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class EventClientPreOutputParallelWithServer_t {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class EventAdvanceTick_t {
         }
@@ -190,7 +190,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class EventClientFrameSimulate_t {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class EventServerAdvanceTick_t {
         }

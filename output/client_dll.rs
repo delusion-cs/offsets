@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:53:49.281872300 UTC
+// 2026-04-21 14:00:35.963345100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -161,7 +161,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_SceneEntity__QueuedEvents_t {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CCSPlayer_PingServices {
             }
@@ -173,7 +173,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBaseTriggerAPI {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CFuncRetakeBarrier {
             }
@@ -194,7 +194,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_FuncRotating {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_SoundOpvarSetPointBase {
             }
@@ -310,7 +310,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_VoteController {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_C4 {
             }
@@ -350,7 +350,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_WeaponAWP {
             }
-            // Parent: __X___
+            // Parent: ______
             // Field count: 0
             pub mod C_BaseButton {
             }
@@ -638,7 +638,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_CSWeaponBase {
             }
-            // Parent: __Y___
+            // Parent: ______
             // Field count: 0
             pub mod CTimeline {
             }
@@ -870,7 +870,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_RopeKeyframe {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_BaseToggle {
             }
@@ -890,7 +890,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CInfoDynamicShadowHint {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CPathNode {
             }
@@ -962,11 +962,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEntityInstance {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_BaseModelEntity {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CCSPlayer_BulletServices {
             }
@@ -994,7 +994,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_LightDirectionalEntity {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_BaseEntity {
             }
@@ -1014,7 +1014,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_Chicken {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_BasePlayerPawn {
             }
@@ -1022,7 +1022,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_SoundOpvarSetAABBEntity {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_WeaponBizon {
             }
@@ -1108,7 +1108,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseArraylib {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_WeaponUSPSilencer {
             }
@@ -1345,7 +1345,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSPlayerController_ActionTrackingServices {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CBodyComponentBaseAnimGraph {
             }
@@ -1382,7 +1382,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_WeaponTec9 {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_PhysPropClientside {
             }
@@ -1488,7 +1488,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_CSGO_TeamPreviewCharacterPosition {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_SmokeGrenadeProjectile {
             }
@@ -1508,7 +1508,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_DynamicProp {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_CSTeam {
             }
@@ -1732,7 +1732,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Unknown {
             }
-            // Parent: ______
+            // Parent: _____
             // Field count: 0
             pub mod C_WeaponMP7 {
             }
@@ -1866,7 +1866,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_CSPetPlacement {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_Beam {
             }
@@ -1940,7 +1940,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_WeaponM249 {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_LocalTempEntity {
             }
@@ -2117,7 +2117,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseExecCursor {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod C_Sprite {
             }
@@ -2289,7 +2289,7 @@ pub mod cs2_dumper {
             pub mod CCompositeMaterialEditorDoc {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CClientAlphaProperty {
             }

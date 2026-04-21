@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:53:49.281872300 UTC
+// 2026-04-21 14:00:35.963345100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -82,7 +82,7 @@ pub mod cs2_dumper {
             pub mod AggregateLODSetup_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod ExtraVertexStreamOverride_t {
             }
@@ -179,7 +179,7 @@ pub mod cs2_dumper {
             pub mod BakedLightingInfo_t__BakedShadowAssignment_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod MaterialOverride_t {
             }

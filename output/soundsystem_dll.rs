@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:53:49.281872300 UTC
+// 2026-04-21 14:00:35.963345100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -371,11 +371,11 @@ pub mod cs2_dumper {
             pub mod CDSPPresetMixgroupModifierTable {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CSosGroupActionSoundeventClusterSchema {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CSosGroupActionSetSoundeventParameterSchema {
             }
@@ -398,7 +398,7 @@ pub mod cs2_dumper {
             pub mod CVoiceContainerAnalysisBase {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CSosGroupActionSoundeventMinMaxValuesSchema {
             }
@@ -432,7 +432,7 @@ pub mod cs2_dumper {
             pub mod VMixPannerDesc_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CSosGroupActionSoundeventPrioritySchema {
             }
@@ -450,7 +450,7 @@ pub mod cs2_dumper {
             pub mod VMixModDelayDesc_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CSndSeqInstSndEvtSchema {
             }
@@ -458,7 +458,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CVMixNameInputMeter {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CSndSeqInstruments {
             }
@@ -874,7 +874,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CVoiceContainerDecayingSineWave {
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             pub mod CVMixDelayProcessorDesc {
             }

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:53:49.281872300 UTC
+// 2026-04-21 14:00:35.963345100 UTC
 
 #pragma once
 
@@ -91,7 +91,7 @@ namespace cs2_dumper {
             namespace RnSoftbodyCapsule_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             namespace vphysics_save_cphysicsbody_t {
             }
@@ -104,7 +104,7 @@ namespace cs2_dumper {
             namespace CFeIndexedJiggleBone {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xLE___
             // Field count: 0
             namespace IPhysAggregateInstance {
             }

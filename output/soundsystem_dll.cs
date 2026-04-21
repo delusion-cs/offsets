@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-21 06:53:49.281872300 UTC
+// 2026-04-21 14:00:35.963345100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: soundsystem.dll
@@ -347,11 +347,11 @@ namespace CS2Dumper.Schemas {
         public static class CDSPPresetMixgroupModifierTable {
             public const nint  = 0x0; // 
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class CSosGroupActionSoundeventClusterSchema {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class CSosGroupActionSetSoundeventParameterSchema {
         }
@@ -374,7 +374,7 @@ namespace CS2Dumper.Schemas {
         public static class CVoiceContainerAnalysisBase {
             public const nint  = 0x0; // 
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class CSosGroupActionSoundeventMinMaxValuesSchema {
         }
@@ -408,7 +408,7 @@ namespace CS2Dumper.Schemas {
         public static class VMixPannerDesc_t {
             public const nint  = 0x0; // 
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class CSosGroupActionSoundeventPrioritySchema {
         }
@@ -426,7 +426,7 @@ namespace CS2Dumper.Schemas {
         public static class VMixModDelayDesc_t {
             public const nint  = 0x0; // 
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class CSndSeqInstSndEvtSchema {
         }
@@ -434,7 +434,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CVMixNameInputMeter {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class CSndSeqInstruments {
         }
@@ -850,7 +850,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CVoiceContainerDecayingSineWave {
         }
-        // Parent: xL____
+        // Parent: xLE___
         // Field count: 0
         public static class CVMixDelayProcessorDesc {
         }
