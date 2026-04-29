@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-29 08:32:18.393996800 UTC
+// 2026-04-29 11:50:31.195048200 UTC
 
 #pragma once
 
@@ -185,30 +185,6 @@ namespace cs2_dumper {
         // Module: steamaudio.dll
         namespace steamaudio_dll {
             constexpr std::ptrdiff_t SteamAudio001 = 0x25E620;
-        }
-        // Module: steamclient64.dll
-        namespace steamclient64_dll {
-            constexpr std::ptrdiff_t IVALIDATE001 = 0x16998B8;
-            constexpr std::ptrdiff_t SteamClient006 = 0x1696D50;
-            constexpr std::ptrdiff_t SteamClient007 = 0x1696D58;
-            constexpr std::ptrdiff_t SteamClient008 = 0x1696D60;
-            constexpr std::ptrdiff_t SteamClient009 = 0x1696D68;
-            constexpr std::ptrdiff_t SteamClient010 = 0x1696D70;
-            constexpr std::ptrdiff_t SteamClient011 = 0x1696D78;
-            constexpr std::ptrdiff_t SteamClient012 = 0x1696D80;
-            constexpr std::ptrdiff_t SteamClient013 = 0x1696D88;
-            constexpr std::ptrdiff_t SteamClient014 = 0x1696D90;
-            constexpr std::ptrdiff_t SteamClient015 = 0x1696D98;
-            constexpr std::ptrdiff_t SteamClient016 = 0x1696DA0;
-            constexpr std::ptrdiff_t SteamClient017 = 0x1696DA8;
-            constexpr std::ptrdiff_t SteamClient018 = 0x1696DB0;
-            constexpr std::ptrdiff_t SteamClient019 = 0x1696DB8;
-            constexpr std::ptrdiff_t SteamClient020 = 0x1696DC0;
-            constexpr std::ptrdiff_t SteamClient021 = 0x1696DC8;
-            constexpr std::ptrdiff_t SteamClient022 = 0x1696DD0;
-            constexpr std::ptrdiff_t SteamClient023 = 0x1696DD8;
-            constexpr std::ptrdiff_t p2pvoice002 = 0x14E5DEF;
-            constexpr std::ptrdiff_t p2pvoicesingleton002 = 0x16720F0;
         }
         // Module: tier0.dll
         namespace tier0_dll {
