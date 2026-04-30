@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-29 11:50:31.195048200 UTC
+// 2026-04-30 10:41:54.542077900 UTC
 
 pub const cs2_dumper = struct {
     pub const interfaces = struct {
@@ -180,6 +180,30 @@ pub const cs2_dumper = struct {
         // Module: steamaudio.dll
         pub const steamaudio_dll = struct {
             pub const SteamAudio001: usize = 0x25E620;
+        };
+        // Module: steamclient64.dll
+        pub const steamclient64_dll = struct {
+            pub const IVALIDATE001: usize = 0x16BD098;
+            pub const SteamClient006: usize = 0x16BA500;
+            pub const SteamClient007: usize = 0x16BA508;
+            pub const SteamClient008: usize = 0x16BA510;
+            pub const SteamClient009: usize = 0x16BA518;
+            pub const SteamClient010: usize = 0x16BA520;
+            pub const SteamClient011: usize = 0x16BA528;
+            pub const SteamClient012: usize = 0x16BA530;
+            pub const SteamClient013: usize = 0x16BA538;
+            pub const SteamClient014: usize = 0x16BA540;
+            pub const SteamClient015: usize = 0x16BA548;
+            pub const SteamClient016: usize = 0x16BA550;
+            pub const SteamClient017: usize = 0x16BA558;
+            pub const SteamClient018: usize = 0x16BA560;
+            pub const SteamClient019: usize = 0x16BA568;
+            pub const SteamClient020: usize = 0x16BA570;
+            pub const SteamClient021: usize = 0x16BA578;
+            pub const SteamClient022: usize = 0x16BA580;
+            pub const SteamClient023: usize = 0x16BA588;
+            pub const p2pvoice002: usize = 0x14E627F;
+            pub const p2pvoicesingleton002: usize = 0x16950F0;
         };
         // Module: tier0.dll
         pub const tier0_dll = struct {
